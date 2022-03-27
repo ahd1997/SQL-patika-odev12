@@ -1,0 +1,1 @@
+--dvdrental örnek veri tabanı üzerinden payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
