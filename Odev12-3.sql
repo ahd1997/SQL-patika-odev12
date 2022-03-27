@@ -1,0 +1,1 @@
+--dvdrental örnek veri tabanı üzerinden film tablosunda en düşük rental_rate ve en düşün replacement_cost değerlerine sahip filmleri sıralayınız.
